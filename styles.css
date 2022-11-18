@@ -1,2 +1,50 @@
 
 /* Your CSS Code here. */
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+header{
+    background-color: yellowgreen;
+    color: aliceblue;
+    font-family: serif;
+    height: 50px;
+    
+}
+footer{
+    background-color: rgb(154, 154, 10);
+    color: aquamarine;
+    height: 50px;
+}
+#nav-actor,#nav-movie{
+    background-color: brown;
+    font-weight: bolder;
+    color: blueviolet;
+    height: 50px;
+}
+summary{
+    font-style: italic;
+    background-color: cadetblue;
+    color: bisque;
+  
+}
+#actor{
+     font-style: italic;
+     background-color: cadetblue;
+     color: bisque;
+     
+
+}
+#quote{
+    font-family: serif;
+    background-color: rgb(8, 125, 61);
+    color: bisque;
+    height: 50px;
+
+}
+aside{
+    background-color: rgb(180, 83, 177);
+    color: black;
+    height: 50px;
+}
